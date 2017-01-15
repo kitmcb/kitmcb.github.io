@@ -1,0 +1,12 @@
+body{
+  background-color: #FFFFA9;
+}
+h2 {
+  text-align: left;
+}
+li {list-style: none;
+  margin-left: 13px
+  ;}
+#yogabenifits {
+  width: 500px;
+}
